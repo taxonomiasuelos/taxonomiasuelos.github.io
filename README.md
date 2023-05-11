@@ -6,7 +6,7 @@ Repositorio en construcción
 Probá la app:<br>
 Versión en español: https://play.google.com/store/apps/details?id=ar.edu.unrc.taxonomiasuelos <br>
 Versión en inglés: https://play.google.com/store/apps/details?id=ar.edu.unrc.soiltaxonomy <br>
-Versión web (provisoria): https://taxosuelos.github.io/index.html
+Versión web (provisoria): [https://taxosuelos.github.io/index.html](https://taxonomiasuelos.github.io/)
 
 
 <br>
